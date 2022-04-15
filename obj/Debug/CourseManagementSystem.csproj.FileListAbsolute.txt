@@ -1,0 +1,13 @@
+C:\Users\faiqa\Desktop\CourseManagementSystem\bin\Debug\CourseManagementSystem.exe.config
+C:\Users\faiqa\Desktop\CourseManagementSystem\bin\Debug\CourseManagementSystem.exe
+C:\Users\faiqa\Desktop\CourseManagementSystem\bin\Debug\CourseManagementSystem.pdb
+C:\Users\faiqa\Desktop\CourseManagementSystem\obj\Debug\CourseManagementSystem.csproj.AssemblyReference.cache
+C:\Users\faiqa\Desktop\CourseManagementSystem\obj\Debug\CourseManagementSystem.csproj.SuggestedBindingRedirects.cache
+C:\Users\faiqa\Desktop\CourseManagementSystem\obj\Debug\CourseManagementSystem.StudentForm.resources
+C:\Users\faiqa\Desktop\CourseManagementSystem\obj\Debug\CourseManagementSystem.Properties.Resources.resources
+C:\Users\faiqa\Desktop\CourseManagementSystem\obj\Debug\CourseManagementSystem.csproj.GenerateResource.cache
+C:\Users\faiqa\Desktop\CourseManagementSystem\obj\Debug\CourseManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\faiqa\Desktop\CourseManagementSystem\obj\Debug\CourseManagementSystem.exe
+C:\Users\faiqa\Desktop\CourseManagementSystem\obj\Debug\CourseManagementSystem.pdb
+C:\Users\faiqa\Desktop\CourseManagementSystem\obj\Debug\CourseManagementSystem.CourseForm.resources
+C:\Users\faiqa\Desktop\CourseManagementSystem\obj\Debug\CourseManagementSystem.RegistrationForm.resources
